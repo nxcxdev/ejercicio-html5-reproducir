@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 30%;
+}
+
+h1 {
+    text-align: center;
+    padding: 3vh;
+}
+
+.article__header__text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.article__header__wrapper {
+    background-color: grey;
+    padding: 1vh;
+}
+
+.article__content {
+    margin: 2vh 8vh;
+}
+
+.article__content__image {
+    height: 15vh;
+    display: inline;
+    float: left;
+    padding: 1vh 3vh;
+}
+.article__content__body {
+
+}
+
+

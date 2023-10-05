@@ -1,0 +1,141 @@
+h1 {
+    text-align: center;
+}
+
+
+body {
+    background-image: url(mountains.jpg);
+}
+
+#background__colors__container {
+    padding: 0 30%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.2fr 0.75fr 1.2fr 1fr;
+}
+
+#color__names__container {
+    text-align: center;
+}
+
+#color__names__container p{
+    margin: 5px;
+    text-align: justify;
+    display: inline;
+    font-size: 30px;
+}
+
+.background__color--black {
+    background-color: black;
+}
+
+.background__color--teal {
+    background-color: teal;
+}
+
+.background__color--blue {
+    background-color: blue;
+}
+
+.background__color--navy {
+    background-color: navy;
+}
+
+.background__color--lime {
+    background-color: lime;
+}
+
+.background__color--white {
+    background-color: white;
+}
+
+.background__color--purple {
+    background-color: purple;
+}
+
+.background__color--yellow {
+    background-color: yellow;
+}
+
+.background__color--olive {
+    background-color: olive;
+}
+
+.background__color--red {
+    background-color: red;
+}
+
+.background__color--gray {
+    background-color: gray;
+}
+
+.background__color--fuchsia {
+    background-color: fuchsia;
+}
+
+.background__color--green {
+    background-color: green;
+    grid-column-start: 4;
+    grid-column-end: 7;
+}
+
+.background__color--header {
+    background-color: green;
+    grid-column-start: 1;
+    grid-column-end: 7;
+}
+
+.background__color--header p {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 2rem;
+}
+
+
+.color__name {
+    display: inline;
+}
+
+.color--black {
+    color: black;
+}
+.color--teal{
+    color: teal;
+}
+.color--blue{
+    color: blue;
+}
+.color--navy{
+    color: navy;
+}
+.color--lime{
+    color: lime;
+}
+.color--white{
+    color: white;
+}
+.color--purple{
+    color: purple;
+}
+.color--yellow{
+    color: yellow;
+}
+.color--olive{
+    color: olive;
+}
+.color--red{
+    color: red;
+}
+.color--maroon{
+    color: maroon;
+}
+.color--gray{
+    color: gray;
+}
+.color--fuchsia{
+    color: fuchsia;
+}
+.color--green{
+    color: green;
+}
+.color--aqua{}
+.color--silver{}
