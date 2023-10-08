@@ -137,5 +137,9 @@ body {
 .color--green{
     color: green;
 }
-.color--aqua{}
-.color--silver{}
+.color--aqua{
+    color: aqua;
+}
+.color--silver{
+    color: silver;
+}   
